@@ -1,0 +1,26 @@
+2018-04-09 18:13:28,999:
+        Neural Network Architecture 
+                            Layers:    1
+                     Input Neurons: 0030
+                    Hidden Neurons: 0025
+                    Output Neurons: 0001
+        Total Number of Parameters: 0801
+                 Output activation: sigmoid
+                  Inner activation: tanh
+
+2018-04-09 18:13:29,011:
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+
+2018-04-09 18:13:29,012:Training Neural Network...
+
+2018-04-09 18:18:17,464:Finish Training...
+
+2018-04-09 18:18:17,465:Regularization: 0.7400
+2018-04-09 18:18:17,465:Iterations: 2500
+2018-04-09 18:18:17,465:Gradient Descent Execution time: 288.424
+2018-04-09 18:18:17,465:Initial Cost: 0.27441
+2018-04-09 18:18:17,465:Final Cost: 0.27156
+2018-04-09 18:18:17,495:Model evaluation
+
+2018-04-09 18:18:17,495:Accuracy in training Set: 0.91136
+2018-04-09 18:18:17,495:Accuracy in test Set (Exact Gradient): 0.88428

@@ -1,0 +1,13 @@
+2018-04-10 22:22:43,436:
+        Neural Network Architecture 
+                            Layers:    1
+                     Input Neurons: 0030
+                    Hidden Neurons: 0040
+                    Output Neurons: 0001
+        Total Number of Parameters: 1281
+                 Output activation: sigmoid
+                  Inner activation: tanh
+
+2018-04-10 22:22:43,452:
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+
