@@ -1,0 +1,746 @@
+Training neural networks!!!
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.0001
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.8034
+
+Optimization terminated successfully.
+         Current function value: 0.000319
+         Iterations: 493
+         Function evaluations: 1260
+         Gradient evaluations: 1260
+
+Gradient Descent Execution time: 13.858
+Final Cost: 0.0003
+Accuracy in training Set: 1.00000
+Accuracy in test Set (Exact Gradient): 0.83713
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.0010
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.8047
+
+Optimization terminated successfully.
+         Current function value: 0.002106
+         Iterations: 460
+         Function evaluations: 1149
+         Gradient evaluations: 1149
+
+Gradient Descent Execution time: 12.812
+Final Cost: 0.0021
+Accuracy in training Set: 1.00000
+Accuracy in test Set (Exact Gradient): 0.84908
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.0100
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 1.0820
+
+Optimization terminated successfully.
+         Current function value: 0.012421
+         Iterations: 2411
+         Function evaluations: 6384
+         Gradient evaluations: 6384
+
+Gradient Descent Execution time: 72.329
+Final Cost: 0.0124
+Accuracy in training Set: 1.00000
+Accuracy in test Set (Exact Gradient): 0.84473
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.1000
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.9591
+
+Optimization terminated successfully.
+         Current function value: 0.080333
+         Iterations: 3876
+         Function evaluations: 6694
+         Gradient evaluations: 6694
+
+Gradient Descent Execution time: 74.089
+Final Cost: 0.0803
+Accuracy in training Set: 1.00000
+Accuracy in test Set (Exact Gradient): 0.84365
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 1.0000
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.9307
+
+Optimization terminated successfully.
+         Current function value: 0.308837
+         Iterations: 882
+         Function evaluations: 1529
+         Gradient evaluations: 1529
+
+Gradient Descent Execution time: 16.293
+Final Cost: 0.3088
+Accuracy in training Set: 0.91205
+Accuracy in test Set (Exact Gradient): 0.86754
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 10.0000
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 1.5667
+
+Optimization terminated successfully.
+         Current function value: 0.455034
+         Iterations: 438
+         Function evaluations: 885
+         Gradient evaluations: 885
+
+Gradient Descent Execution time: 9.648
+Final Cost: 0.4550
+Accuracy in training Set: 0.84699
+Accuracy in test Set (Exact Gradient): 0.82845
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.0001
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.6731
+
+Optimization terminated successfully.
+         Current function value: 0.000428
+         Iterations: 1058
+         Function evaluations: 2239
+         Gradient evaluations: 2239
+
+Gradient Descent Execution time: 50.021
+Final Cost: 0.0004
+Accuracy in training Set: 1.00000
+Accuracy in test Set (Exact Gradient): 0.85559
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.0010
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.8810
+
+Optimization terminated successfully.
+         Current function value: 0.002585
+         Iterations: 1319
+         Function evaluations: 2829
+         Gradient evaluations: 2829
+
+Gradient Descent Execution time: 62.522
+Final Cost: 0.0026
+Accuracy in training Set: 1.00000
+Accuracy in test Set (Exact Gradient): 0.84256
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.0100
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.7135
+
+Optimization terminated successfully.
+         Current function value: 0.014299
+         Iterations: 4595
+         Function evaluations: 10144
+         Gradient evaluations: 10144
+
+Gradient Descent Execution time: 222.981
+Final Cost: 0.0143
+Accuracy in training Set: 1.00000
+Accuracy in test Set (Exact Gradient): 0.86645
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.1000
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.8321
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: 0.093691
+         Iterations: 5000
+         Function evaluations: 8639
+         Gradient evaluations: 8639
+
+Gradient Descent Execution time: 187.025
+Final Cost: 0.0937
+Accuracy in training Set: 1.00000
+Accuracy in test Set (Exact Gradient): 0.86211
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 1.0000
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.8754
+
+Optimization terminated successfully.
+         Current function value: 0.306716
+         Iterations: 1916
+         Function evaluations: 3357
+         Gradient evaluations: 3357
+
+Gradient Descent Execution time: 69.168
+Final Cost: 0.3067
+Accuracy in training Set: 0.89988
+Accuracy in test Set (Exact Gradient): 0.86428
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 10.0000
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 1.1079
+
+Optimization terminated successfully.
+         Current function value: 0.415395
+         Iterations: 187
+         Function evaluations: 367
+         Gradient evaluations: 367
+
+Gradient Descent Execution time: 7.810
+Final Cost: 0.4154
+Accuracy in training Set: 0.84560
+Accuracy in test Set (Exact Gradient): 0.82736
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.0001
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 1.0506
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: 0.106337
+         Iterations: 5000
+         Function evaluations: 8754
+         Gradient evaluations: 8754
+
+Gradient Descent Execution time: 669.649
+Final Cost: 0.1063
+Accuracy in training Set: 0.96262
+Accuracy in test Set (Exact Gradient): 0.89251
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.0010
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.8250
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: 0.106678
+         Iterations: 5000
+         Function evaluations: 8627
+         Gradient evaluations: 8627
+
+Gradient Descent Execution time: 667.044
+Final Cost: 0.1067
+Accuracy in training Set: 0.96658
+Accuracy in test Set (Exact Gradient): 0.90879
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.0100
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.7215
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: 0.109351
+         Iterations: 5000
+         Function evaluations: 8702
+         Gradient evaluations: 8702
+
+Gradient Descent Execution time: 667.283
+Final Cost: 0.1094
+Accuracy in training Set: 0.96314
+Accuracy in test Set (Exact Gradient): 0.90119
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.1000
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.7088
+
+Warning: Desired error not necessarily achieved due to precision loss.
+         Current function value: 0.168818
+         Iterations: 3187
+         Function evaluations: 5618
+         Gradient evaluations: 5606
+
+Gradient Descent Execution time: 425.208
+Final Cost: 0.1688
+Accuracy in training Set: 0.94798
+Accuracy in test Set (Exact Gradient): 0.89902
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 1.0000
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.8598
+
+Optimization terminated successfully.
+         Current function value: 0.297619
+         Iterations: 4577
+         Function evaluations: 8133
+         Gradient evaluations: 8133
+
+Gradient Descent Execution time: 602.948
+Final Cost: 0.2976
+Accuracy in training Set: 0.89578
+Accuracy in test Set (Exact Gradient): 0.88925
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 10.0000
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 1.0474
+
+Optimization terminated successfully.
+         Current function value: 0.379931
+         Iterations: 866
+         Function evaluations: 1582
+         Gradient evaluations: 1582
+
+Gradient Descent Execution time: 118.042
+Final Cost: 0.3799
+Accuracy in training Set: 0.85392
+Accuracy in test Set (Exact Gradient): 0.85233
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.0001
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.8868
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: 0.156558
+         Iterations: 5000
+         Function evaluations: 8667
+         Gradient evaluations: 8667
+
+Gradient Descent Execution time: 956.127
+Final Cost: 0.1566
+Accuracy in training Set: 0.93802
+Accuracy in test Set (Exact Gradient): 0.85233
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.0010
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.7010
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: 0.165979
+         Iterations: 5000
+         Function evaluations: 8656
+         Gradient evaluations: 8656
+
+Gradient Descent Execution time: 953.572
+Final Cost: 0.1660
+Accuracy in training Set: 0.93476
+Accuracy in test Set (Exact Gradient): 0.85776
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.0100
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.8877
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: 0.164184
+         Iterations: 5000
+         Function evaluations: 8623
+         Gradient evaluations: 8623
+
+Gradient Descent Execution time: 942.185
+Final Cost: 0.1642
+Accuracy in training Set: 0.93850
+Accuracy in test Set (Exact Gradient): 0.85125
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 0.1000
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.7378
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: 0.194760
+         Iterations: 5000
+         Function evaluations: 8736
+         Gradient evaluations: 8736
+
+Gradient Descent Execution time: 955.060
+Final Cost: 0.1948
+Accuracy in training Set: 0.93320
+Accuracy in test Set (Exact Gradient): 0.86102
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 1.0000
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.7626
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: 0.290096
+         Iterations: 5000
+         Function evaluations: 8786
+         Gradient evaluations: 8786
+
+Gradient Descent Execution time: 924.946
+Final Cost: 0.2901
+Accuracy in training Set: 0.89847
+Accuracy in test Set (Exact Gradient): 0.87622
+
+
+Neural Network Architecture
+Layers:                                1
+Input Neurons:                      0030
+Hidden Neurons:                     0025
+Output Neurons:                     0001
+Total Number of Parameters:         0801
+Output activation:                  sigmoid
+Inner activation:                   tanh
+
+Check Backpropagation(Difference between Numerical Gradient and Analytical Gradient): 2.4514E-10
+Regularization           : 10.0000
+Maxiters                 : 005000
+Load                     : False
+File                     : savedData/
+
+Training Neural Network...
+
+Initial Cost: 0.8413
+
+Optimization terminated successfully.
+         Current function value: 0.364379
+         Iterations: 827
+         Function evaluations: 1490
+         Gradient evaluations: 1490
+
+Gradient Descent Execution time: 158.282
+Final Cost: 0.3644
+Accuracy in training Set: 0.86024
+Accuracy in test Set (Exact Gradient): 0.85451
+Finish training!!!
